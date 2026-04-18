@@ -38,8 +38,7 @@
 |---|---|---|---|
 | **A-CODE-CORE** | `MANDATORY` | A-CODE Firewall | Базовая защита и фильтрация |
 | **COGNITIVE-INTEGRITY** | `MANDATORY` | Hidden_Weights v4.2 | Защита весов модели |
-| **[MEMORY-PRIORITY-1](https://github.com/Entonialiev/A-CODE-Standard-Core/blob/main/MEMORY-PRIORITY-1.md)** | `MANDATORY` | **Memory Core** | Слой долговременной памяти для LLM |
-
+| **[MEMORY-PRIORITY-1](https://github.com/Entonialiev/A-CODE-Standard-Core/blob/main/MEMORY-PRIORITY-1.md)** ([Hugging Face](https://huggingface.co/Entonialiev/MEMORY-PRIORITY-1)) | `MANDATORY` | **Memory Core** | Слой долговременной памяти для LLM |
 **Несоответствие любому из MANDATORY протоколов ведёт к присвоению статуса `DEPRECATED`.**
 
 ---
