@@ -12,7 +12,7 @@
 
 MEMORY-PRIORITY-1 is a mandatory sub-protocol of the A-CODE standard. It defines the requirements for long-term memory layers in LLM-based cognitive systems.
 
-**Reference Implementation:** Memory Core (Architect: Elshan Aliev)
+**Reference Implementation:** Memory Core **Hugging Face Model Card:** [Entonialiev/MEMORY-PRIORITY-1](https://huggingface.co/Entonialiev/MEMORY-PRIORITY-1) (Architect: Elshan Aliev)
 
 ---
 
